@@ -17,7 +17,7 @@ section, summary, time, mark, audio, video {
 	vertical-align: baseline;}
 
 body {
-    background-image: url("image/joshua-reddekopp-7Oq9r2CiTLg-unsplash.png");
+    background-image: url("C:/Users/HP X360 CORE i7/Desktop/MES SITES/Mon PorteFolio/image/joshua-reddekopp-7Oq9r2CiTLg-unsplash.png");
     background-size: cover;
     background-repeat: no-repeat;
     font-family: Arial;
@@ -195,16 +195,22 @@ footer a:hover {
   font-size: 20px;
   font-family: Arial;
 }
-@media (max-width: 720px) {
+@media (max-width: 768px) {
   .cardshadow {
-  width: 300px;
+  width: 376px;
   height: 700px;
+  margin-left: 0%;
+  padding-left: 50px;
+  }
+  .card {
+    width: 400px;
+    margin-left: 0px;
   }
   .Presentation {
     flex-direction: column-reverse;
-    margin-left: 0px;
   }
   footer {
     flex-direction: column;
+    padding-right: px;
   }
 }
