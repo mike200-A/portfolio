@@ -207,9 +207,14 @@ footer a:hover {
   }
   .Presentation {
     flex-direction: column-reverse;
+	  position: center;
+	align-items: center;
+    display: flex;
+    justify-content: space-between;
   }
   footer {
     flex-direction: column;
     padding-right: ;
 	  width: 100%;
+  }
 }
