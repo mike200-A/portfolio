@@ -197,13 +197,13 @@ footer a:hover {
 }
 @media (max-width: 768px) {
   .cardshadow {
-  width: 376px;
+  width: relative;
   height: 700px;
   margin-left: 0%;
   padding-left: 50px;
   }
   .card {
-    width: 400px;
+    width: relative;
     margin-left: 0px;
   }
   .Presentation {
