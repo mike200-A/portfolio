@@ -202,6 +202,7 @@ footer a:hover {
   }
   .Presentation {
     flex-direction: column-reverse;
+    margin-left: 0px;
   }
   footer {
     flex-direction: column;
