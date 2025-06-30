@@ -25,6 +25,7 @@ body {
 nav {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     padding: 25px;
+	padding-left: 100%;
     background-color: black;
 }
 nav .Logo {
