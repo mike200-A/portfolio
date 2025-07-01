@@ -29,7 +29,6 @@ nav {
 	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 	padding: 25px;
 	background-color: black;
-	width: 100%;
 }
 nav .Logo {
 	color: aliceblue;
@@ -213,7 +212,6 @@ footer a:hover {
 	footer {
 		flex-direction: column;
 		text-align: center;
-		max-width: 50px;
 	}
 }
 
