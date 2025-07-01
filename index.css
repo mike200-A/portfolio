@@ -181,7 +181,7 @@ footer a:hover {
 }
 
 /* RESPONSIVE */
-@media (max-width: 450px) {
+@media (max-width: 350px) {
 	.cardshadow, .card {
 		width: 100%;
 		margin-left: 0;
